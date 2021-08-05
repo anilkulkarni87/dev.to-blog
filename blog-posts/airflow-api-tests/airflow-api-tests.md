@@ -3,7 +3,7 @@ published: false
 title: "Airflow Api tests"
 cover_image: "https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_white_bg.png?api=v2"
 description: "This is a collection of Pytest for the 2.0 Stable Rest Apis for Apache Airflow. I have another repo where you could setup airflow locally and play around with these. I am used to RestAssured, but trying out pytest here."
-tags: airflow, airflow-api, api-test
+tags: airflow, airflowapi, apitest
 series:
 canonical_url: ""
 ---
