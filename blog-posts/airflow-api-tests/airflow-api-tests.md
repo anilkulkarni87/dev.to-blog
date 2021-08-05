@@ -89,4 +89,3 @@ I know you could get your hands on the swagger doc for these. But I still wanted
 
 - [@anilkulkarni87](https://github.com/anilkulkarni87) 
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
