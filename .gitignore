@@ -1,0 +1,9 @@
+### VirtualEnv template
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+pyvenv.cfg
+pip-selfcheck.json
+.idea
+venv
+
