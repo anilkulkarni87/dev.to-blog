@@ -10,7 +10,7 @@ canonical_url: ""
 
 <div align="center">
 
-[![Actions Status](https://github.com/anilkulkarni87/dev.to/workflows/CI/badge.svg)](https://github.com/anilkulkarni87/dev.to/actions)
+[![Actions Status](https://github.com/anilkulkarni87/dev.to-blog/workflows/CI/badge.svg)](https://github.com/anilkulkarni87/dev.to/actions)
 
 </div>
 
