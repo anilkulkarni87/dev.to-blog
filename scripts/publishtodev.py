@@ -21,6 +21,7 @@ def get_front_matter_from_md_file(path):
             else:
                 actual_article[k] = post[k]
     actual_article['body_markdown'] = post.content
+    print(article)
     return article
 
 
