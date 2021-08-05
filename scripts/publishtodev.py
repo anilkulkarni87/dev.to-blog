@@ -30,6 +30,7 @@ def publish_to_dev(article):
         'api-key': os.environ['API_KEY'],
     }
     response = requests.post('https://dev.to/api/articles', headers=headers, data=article)
+    print(response)
     article_id = response.json()["id"]
     return article_id
 
